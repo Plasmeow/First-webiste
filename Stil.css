@@ -1,0 +1,29 @@
+body {
+  background-image: url("https://img.freepik.com/premium-photo/notebook-paper-background-lined-notebook-paper-crumpled-paper-background_322958-3948.jpg");
+}
+
+p {
+  font-family: courier new;
+  font-size: 20px;
+}
+body {
+  color: rgba(65, 46, 189, 0.978);
+}
+
+h1 {
+  color: rgb(255, 242, 0);
+  text-align: center;
+  background-color: rgb(244, 31, 127);
+}
+
+p {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
